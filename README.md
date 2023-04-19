@@ -5,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Capstone2 ](#-capstone2-)
+- [📖 MOVIE SHOW : API BASED ](#-capstone2-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -30,7 +30,7 @@
 
 This capstone2 project is based on an online website that allows users to interact with movies show information extract from an API, like or comment them .
 
-**#######** In this project, we will built a basic website. We achieved that by using JavaScript objects , arrays and API. We also dynamically modified the DOM and added basic events.
+In this project, we will built a basic website. We achieved that by using JavaScript objects , arrays and API. We also dynamically modified the DOM and added basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -174,10 +174,9 @@ https://touredri.github.io/capstone2/
 
 👤 **Ahmed Saeed**
 
-- GitHub: [@***********](https://github.com/*****)
-- Twitter: [*******](https://twitter.com/*****)
-- LinkedIn: [*****](https://www.linkedin.com/in/******/)
-
+- GitHub: [@ehmaddd](https://github.com/ehmaddd/)
+- Twitter: [@ehmaddd_pk](https://twitter.com/ehmaddd_pk)
+- LinkedIn: [ahmad-saeed-734174148](https://www.linkedin.com/in/ahmad-saeed-734174148/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
